@@ -1,12 +1,12 @@
 {
-  "name": "Arslan-Botz",
+  "name": "♤Ballas-Botz♧",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By YoMom Official",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Arslan-Botz",
-    "stop": "pm2 stop Arslan-Botz",
-    "restart": "pm2 restart Arslan-Botz"
+    "stop": "pm2 stop Ballas-Botz",
+    "restart": "pm2 restart Ballas-Botz"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
